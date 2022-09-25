@@ -1,4 +1,5 @@
-# java-roadmap
+# java-roadmap 
+# recommend order
 [1. ncc-java-core-basic](ncc-java-core-basic)
 
 [2. ncc-java-spring-basic](ncc-java-spring-basic)
