@@ -34,7 +34,7 @@ Các dạng data có hậu tố tương ứng, trừ entity. Ví dụ entity `Us
 - `Repository layer`: chỉ thao tác trên `Entity`, vì đó là đối tượng thích hợp, có thể mapping vào DB.
 
 ## 3. Ví dụ
-Như ví dụ ở phần [Spring Security](../spring-security/README.md), khi tạo `Restful API` để get thông tin của User, ta đã trả về tất cả dữ liệu trên DB kể cả `password`. Điều đó là hoàn toàn không cần thiết. Do vậy, một DTO được ra.
+Như ví dụ ở phần [Spring Security](../../../../../../../../ncc-java-spring-basic/spring-security/README.md), khi tạo `Restful API` để get thông tin của User, ta đã trả về tất cả dữ liệu trên DB kể cả `password`. Điều đó là hoàn toàn không cần thiết. Do vậy, một DTO được ra.
 >userDTO.java
 ```java
     public class userDTO {
