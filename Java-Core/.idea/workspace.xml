@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebeba244-af47-4da5-9ce2-cafadae56f34" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Java-Core.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sychronize_asynchronize/AsynchronousExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$sic_Java_Core.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java-Concurrency/src/com/java/concurrency/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java-Concurrency/src/com/java/concurrency/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/Basic_Java_Core.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Basic_Java_Core.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/collections/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/collections/java-collection-hierarchy.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/collections/java-collection-hierarchy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/final/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/finals/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/final/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/finals/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/handle-exception/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/handle-exception/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/interface-vs-abstract/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_abstract/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/interface-vs-abstract/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/interface_abstract/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/lambda-expressions/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambda_expression/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/passing-in-java/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/passing_merchanism/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/passing-in-java/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/passing_merchanism/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/static/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/static_keyword/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/static/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/static_keyword/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/string-pool/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_pool/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/string-pool/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_pool/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/string-vs-string-buffer-vs-string-builder/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_stringbuffer_stringbuilder/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/string-vs-string-buffer-vs-string-builder/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_stringbuffer_stringbuilder/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/synchronize-vs-asynchronize/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/sychronize_asynchronize/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ncc-java-core-basic/synchronize-vs-asynchronize/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/sychronize_asynchronize/index.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Fd0QTzCKzAhLJbkZ2dl5FZ04Bi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java-Roadmap"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebeba244-af47-4da5-9ce2-cafadae56f34" name="Changes" comment="" />
+      <created>1664806640049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664806640049</updated>
+      <workItem from="1664806643172" duration="14000" />
+      <workItem from="1664806675949" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

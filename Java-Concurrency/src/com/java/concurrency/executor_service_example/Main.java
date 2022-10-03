@@ -1,6 +1,7 @@
 package com.java.concurrency.executor_service_example;
 
 import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
 /**
@@ -9,12 +10,19 @@ import java.util.concurrent.TimeUnit;
  */
 public class Main {
     public static void main(String[] args) {
+        ExecutorService executorService = Executors.newCachedThreadPool();
 
+        executorService.submit(() -> {
+            System.out.println("create new thread!!!");
+        });
+
+        System.out.println("other task can perform");
     }
 
     /**
      * It shuts down the executor service and waits for some time for submitted tasks to complete.
      * If the running tasks do not complete in certain time, they are terminated forcefully.
+     *
      * @param pool the thread pool
      */
     static void shutdownAndAwaitTermination(ExecutorService pool) {

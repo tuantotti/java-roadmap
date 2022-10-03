@@ -1,7 +1,7 @@
 package com.java.concurrency;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.PriorityQueue;
+import java.util.Queue;
 
 abstract class Student {
     protected String name;
@@ -29,16 +29,43 @@ abstract class Student {
     }
 }
 
-class sbc extends Student{
+class sbc extends Student {
 
     public sbc(String name, int id) {
         super(name, id);
     }
 }
+
 public class Main {
 
     public static void main(String[] args) {
-        Student sbc = new sbc("tuan",1);
-        System.out.println(sbc.getClass().getSimpleName());
+        // Create a Priority Queue
+        Queue<Integer> numbers = new PriorityQueue<>();
+
+        // Add items to a Priority Queue (ENQUEUE)
+        numbers.add(750);
+        numbers.add(500);
+        numbers.add(900);
+        numbers.add(100);
+
+        // Remove items from the Priority Queue (DEQUEUE)
+        while (!numbers.isEmpty()) {
+            System.out.println(numbers.remove());
+        }
+
+        Queue<String> strings = new PriorityQueue<>();
+
+        // Add items to a Priority Queue (ENQUEUE)
+        strings.add("tuan");
+        strings.add("dat");
+        strings.add("dung");
+
+        System.out.println(strings);
+
+
+        while (!strings.isEmpty()) {
+            System.out.println(strings.poll());
+        }
+
     }
 }

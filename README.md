@@ -1,6 +1,6 @@
 # Recommend Order
 
-[1. ncc-java-core-basic](ncc-java-core-basic)
+[1. ncc-java-core-basic](Java-Core)
 
 [2. ncc-java-spring-basic](ncc-java-spring-basic)
 

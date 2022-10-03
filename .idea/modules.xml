@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Core/Java-Core.iml" filepath="$PROJECT_DIR$/Java-Core/Java-Core.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Roadmap.iml" filepath="$PROJECT_DIR$/Java-Roadmap.iml" />
     </modules>
   </component>

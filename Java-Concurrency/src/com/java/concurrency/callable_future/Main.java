@@ -27,6 +27,8 @@ public class Main {
             futures.add(future);
         }
 
+        System.out.println("The above code is asynchronously");
+
         for (Future<String> future : futures) {
             try {
                 System.out.println(future.get());
